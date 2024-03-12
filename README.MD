@@ -1,6 +1,6 @@
 # Palindrome Test
 
-### Recently l was given a  Palindrome Test for On Hands Coding challenge in an interview
+### I recently tackled a Palindrome Test during a hands-on coding challenge in an interview.
 
-*  This is the Soluction l came up with during the Interview, Feel free to make this better, as l had 10mins to complete it.
-*  I Used TDD.
+*  This is the solution I devised during the interview. Please feel free to refine it further, considering I had only 10 minutes to complete it.
+*  I employed Test-Driven Development (TDD) methodology throughout the Palindrome Test during my interview.
